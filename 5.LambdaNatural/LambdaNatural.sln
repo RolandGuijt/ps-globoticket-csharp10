@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaNatural", "LambdaNatural\LambdaNatural.csproj", "{1C947407-AB0F-43EE-9A66-FC27AB7A1B68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarvedRock-WebApi", "CarvedRock-WebApi\CarvedRock-WebApi.csproj", "{9686553E-8001-4027-A1E7-127F1E5D1595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsGroups", "MethodsGroups\MethodsGroups.csproj", "{CA00247B-7B21-4763-88E1-9D516F1EE9BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolatedStrings", "InterpolatedStrings\InterpolatedStrings.csproj", "{EF170832-563D-4BFA-A60B-C9C573CF8616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C947407-AB0F-43EE-9A66-FC27AB7A1B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C947407-AB0F-43EE-9A66-FC27AB7A1B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C947407-AB0F-43EE-9A66-FC27AB7A1B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C947407-AB0F-43EE-9A66-FC27AB7A1B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9686553E-8001-4027-A1E7-127F1E5D1595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9686553E-8001-4027-A1E7-127F1E5D1595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9686553E-8001-4027-A1E7-127F1E5D1595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9686553E-8001-4027-A1E7-127F1E5D1595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA00247B-7B21-4763-88E1-9D516F1EE9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA00247B-7B21-4763-88E1-9D516F1EE9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA00247B-7B21-4763-88E1-9D516F1EE9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA00247B-7B21-4763-88E1-9D516F1EE9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF170832-563D-4BFA-A60B-C9C573CF8616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF170832-563D-4BFA-A60B-C9C573CF8616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF170832-563D-4BFA-A60B-C9C573CF8616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF170832-563D-4BFA-A60B-C9C573CF8616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A55A25E-DCBB-425A-B53A-842781DEAA04}
+	EndGlobalSection
+EndGlobal
